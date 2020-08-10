@@ -1,0 +1,19 @@
+{
+  "name": "async-queues",
+  "version": "1.0.0",
+  "description": "异步队列管理工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pioneer-Linzi/async-queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pioneer-Linzi/async-queues/issues"
+  },
+  "homepage": "https://github.com/Pioneer-Linzi/async-queues#readme"
+}
