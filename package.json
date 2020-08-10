@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Pioneer-Linzi/async-queues/issues"
   },
-  "homepage": "https://github.com/Pioneer-Linzi/async-queues#readme"
+  "homepage": "https://github.com/Pioneer-Linzi/async-queues#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup-plugin-typescript": "^1.0.1",
+    "rollup-plugin-typescript2": "^0.27.2",
+    "tslib": "^2.0.1",
+    "typescript": "^3.9.7"
+  }
 }
